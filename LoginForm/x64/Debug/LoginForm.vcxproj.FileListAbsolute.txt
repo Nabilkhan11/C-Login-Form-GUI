@@ -1,0 +1,4 @@
+C:\Users\TechnosphereX\source\repos\LoginForm\LoginForm\x64\Debug\LoginForm.vcxproj.AssemblyReference.cache
+C:\Users\TechnosphereX\source\repos\LoginForm\LoginForm\x64\Debug\LoginForm.HomePage.resources
+C:\Users\TechnosphereX\source\repos\LoginForm\LoginForm\x64\Debug\LoginForm.MyForm.resources
+C:\Users\TechnosphereX\source\repos\LoginForm\LoginForm\x64\Debug\LoginForm.vcxproj.GenerateResource.cache
